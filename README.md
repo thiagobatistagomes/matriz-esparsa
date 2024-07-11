@@ -26,5 +26,6 @@ A aplicação apresenta um menu de opções onde o usuário é livre para criar 
 A representação de matrizes esparsas por meio de listas circulares oferece uma solução eficiente para lidar com o desafio de elementos nulos predominantes. Essa abordagem demonstra uma manipulação mais eficaz de elementos não nulos, viabilizando operações matriciais de forma otimizada. Ao minimizar o uso de recursos computacionais, revela-se como uma alternativa promissora para aplicações que lidam com matrizes esparsas, garantindo economia de memória e processamento ágil.
 
 7.	Referências Bibliográficas
+
 Vídeo aula: https://www.youtube.com/watch?v=C_ePgrEbLs0
 https://edisciplinas.usp.br/pluginfile.php/4135303/mod_resource/content/1/SCC0202-aula-06-Matrizes_esparsas%20_semcodigo.pdf
